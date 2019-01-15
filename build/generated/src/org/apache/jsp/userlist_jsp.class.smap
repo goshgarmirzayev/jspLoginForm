@@ -1,0 +1,16 @@
+SMAP
+userlist_jsp.java
+JSP
+*S JSP
+*F
++ 0 userlist.jsp
+userlist.jsp
+*L
+5,24:47
+29,6:72
+34,2:78
+36,3:80,3
+39:89
+39,2:90
+40,8:92
+*E
